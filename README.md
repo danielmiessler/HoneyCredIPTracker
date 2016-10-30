@@ -17,4 +17,6 @@ It uses those as inputs to <code>sort</code>, <code>uniq</code>, etc.
 
 The output will be a sorted list of IPs and Credentials.
 
+![output](http://share.danielmiessler.com/kZgz/3Cv3sIsd+)
+
 
