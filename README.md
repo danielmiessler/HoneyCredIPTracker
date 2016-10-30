@@ -2,7 +2,7 @@
 
 A quick script for doing some basic analysis on interesting data coming in from connections to a honeypot.
 
-Initially set up to capture connections to Robert Graham's TelnetLogger project that he created to look at Mirai connections, but it can be used to look at IPs.
+Initially set up to capture connections to Robert Graham's [TelnetLogger](https://github.com/robertdavidgraham/telnetlogger) project that he created to look at Mirai connections, but it can be used to look at IPs.
 
 ## Functionality
 
