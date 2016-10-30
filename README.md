@@ -76,4 +76,3 @@ The output will be a sorted list of IPs and Credentials.
    1   10 root system
    1    9 root password
 
-
