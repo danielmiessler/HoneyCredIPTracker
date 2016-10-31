@@ -11,11 +11,11 @@ Because it's made to work with TelnetLogger, it's looking for two files:
 1. ips.txt
 2. passwds.txt
 
-It uses those as inputs to <code>sort</code>, <code>uniq</code>, etc.
+It uses those as inputs to <code>sort</code>, <code>uniq</code>, etc. 
 
 ## Output example
 
-The output will be a sorted list of IPs and Credentials.
+The output will be a sorted list of IPs and Credentials, currently showing the top 25 results.
 
 ![output](http://share.danielmiessler.com/kZgz/3Cv3sIsd+)
 
