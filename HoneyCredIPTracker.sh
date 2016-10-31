@@ -18,10 +18,10 @@ echo ""
 echo "================ COUNTRY OUTPUT ======================="
 echo ""
 
-cat country.txt | sort | uniq -c | sort -nr
+sort country.txt | uniq -c | sort -nr
 
 echo ""
 echo "================ CREDENTIALS OUTPUT ======================="
 echo ""
 
-cat sortedpasswords.txt| sort | uniq -c | sort -nr 
+cat sortedpasswords.txt
