@@ -13,10 +13,9 @@ Because it's made to work with TelnetLogger, it's looking for two files:
 
 It uses those as inputs to <code>sort</code>, <code>uniq</code>, etc. 
 
-## Output example
+## Output 
 
 The output will be a sorted list of IPs and Credentials, currently showing the top 25 results.
 
-![output](http://share.danielmiessler.com/kZgz/3Cv3sIsd+)
 
 
