@@ -8,7 +8,7 @@ cat passwds.txt | sort | uniq -c | sort -nr > sortedpasswords.txt
 for IP in `cat sortedips.txt | awk '{print $2}'`
 do
     echo "Checking $IP …"
-    curl -s http://ipinfo.io/$IP | grep country | awk -F'"' '{ print $4 }' >> country.txt
+    curl -s http://ipinfo.io/$IP/country >> country.txt
 
 done
 
